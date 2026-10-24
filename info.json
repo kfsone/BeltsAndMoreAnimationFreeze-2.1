@@ -1,9 +1,10 @@
 {
-    "name":  "BeltsAndMoreAnimationFreeze",
-    "version":  "0.1.2",
+    "name":  "BeltsAndMoreAnimationFreeze-Unofficial-2-1Fix",
+    "version":  "0.1.3",
     "factorio_version":  "2.1",
-    "title":  "Belts (and more) Animation Freeze",
+    "title":  "Belts (and more) Animation Freeze (Unofficial 2.1 Fix)",
     "author":  "Avongard, purple_cpu_chip, FuzzyGames",
-    "description":  "Freezes belt animations for people who get migraines or suffer sensory overload, like in autism. Currently stops animating belts for splitters, transport belts, and underground belts. Based on Avongard's original belt animation freeze mod.",
+    "homepage":  "https://github.com/kfsone/BeltsAndMoreAnimationFreeze-2.1",
+    "description":  "Original mod by FuzzyGames (based on Avongard's belt animation freeze, with purple_cpu_chip); Factorio 2.1 fix by kfsone. Freezes belt animations for people who get migraines or suffer sensory overload. Stops animating transport belts, splitters, underground belts and loaders, plus (2.1) lane splitters, linked belts and 1x1 loaders. Replaces the original BeltsAndMoreAnimationFreeze: disable/remove the original. Original: https://mods.factorio.com/mod/BeltsAndMoreAnimationFreeze",
     "dependencies":  ["base >= 2.1.0"]
 }

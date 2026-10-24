@@ -1,3 +1,8 @@
+Version: 0.1.3
+  Changes
+    - Renamed to BeltsAndMoreAnimationFreeze-Unofficial-2-1Fix (title: "(Unofficial 2.1 Fix)") so it can coexist on the mod portal with the original. Disable/remove the original BeltsAndMoreAnimationFreeze. No prototype changes; the mod has no saved state, so existing saves are unaffected.
+    - Judgement call kept from 0.1.2, documented so it is easy to remove: lane-splitter, linked-belt and loader-1x1 are frozen in addition to the original loader, splitter, transport-belt and underground-belt. To remove, delete those three names from the type list in data-final-fixes.lua.
+---------------------------------------------------------------------------------------------------
 Version: 0.1.2
   Changes
     - Unofficial Factorio 2.1 compatibility fork (kfsone). Set factorio_version to 2.1 and base dependency to 2.1.0.
