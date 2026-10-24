@@ -1,0 +1,9 @@
+{
+    "name":  "BeltsAndMoreAnimationFreeze",
+    "version":  "0.1.2",
+    "factorio_version":  "2.1",
+    "title":  "Belts (and more) Animation Freeze",
+    "author":  "Avongard, purple_cpu_chip, FuzzyGames",
+    "description":  "Freezes belt animations for people who get migraines or suffer sensory overload, like in autism. Currently stops animating belts for splitters, transport belts, and underground belts. Based on Avongard's original belt animation freeze mod.",
+    "dependencies":  ["base >= 2.1.0"]
+}

@@ -1,0 +1,28 @@
+Version: 0.1.2
+  Changes
+    - Unofficial Factorio 2.1 compatibility fork (kfsone). Set factorio_version to 2.1 and base dependency to 2.1.0.
+    - Also freeze the new lane splitter, plus linked belts and 1x1 loaders.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.6
+  Changes
+    - Set Factorio version to 1.1 so it can be used with the current game version. No actual changes in the mod itself.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.5
+  Bugfix
+    - The new beacon animation required updating my code, but since the new beacon animation is so mild, I thought I'd just remove the portion of my code that disables beacon animations.  These new ones are much less intrusive than the old spinning beacons.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+  Changes
+    - 0.18 compatability
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+  Changes
+    - 0.17 compatability
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+  Changes
+    - Added beacon animation freeze
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+  Changes
+    - initial release
